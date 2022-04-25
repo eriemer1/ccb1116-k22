@@ -1,5 +1,7 @@
-# ccb1116-k22
+# ccb1116-k22 Integrations for Fun & Profit
 Supplemental materials for K22 session
+
+See code_sample folder for code samples and an update set.
 
 Developer OOB REST API docs: https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest
 
