@@ -18,7 +18,7 @@
            'category': grIncident.getDisplayValue('category')
         };
         response.setBody(payload); //set the Body to return
-        response.setStatus(200); //sett he HTTP Status to return
+        response.setStatus(200); //set the HTTP Status to return
     } else {//error handling, if we don't find an incident with a matching number send a 404 error with a message
         response.setBody("Invalid Record Number");
         response.setStatus(404);
