@@ -1,7 +1,7 @@
 # ccb1116-k22 Integrations for Fun & Profit
 Supplemental materials for K22 session
 
-Questions? Comments? Want to talk some more? I am @eric on [SNDevs Slack](sndevs.com)
+Questions? Comments? Want to talk some more? I am @eric on [SNDevs Slack](http://sndevs.com)
 
 See code_sample folder for code samples and an update set.
 
