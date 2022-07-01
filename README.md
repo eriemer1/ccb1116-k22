@@ -1,5 +1,5 @@
 # ccb1116-k22 Integrations for Fun & Profit
-Supplemental materials for K22 session
+Supplemental materials for K22 session ([Link](https://knowledge.servicenow.com/lasvegas/sessiondetail?sessionId=1652809842881001NXoe))
 
 Questions? Comments? Want to talk some more? I am @eric on [SNDevs Slack](http://sndevs.com)
 
